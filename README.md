@@ -343,3 +343,10 @@ Spell json placeholders(They can be used only in spell json files):
    * `hand_magic_renewed:forget_all_rituals_debug <entity>` → forgets all rituals.
    * `hand_magic_renewed:research_all_ritual_debug <entity>` → researches all rituals.
 4. For rituals: just make them as normal rituals(If it's hidden one just make it not hidden one for testing).
+
+---
+
+## Legal
+
+**All Rights Reserved** © *JenkiMods*  
+Unauthorized use, modification, or distribution of any part of this project is strictly prohibited. (Only making datapacks are allowed and if needed extra changes msg me on curseforge so i will give you authorization!)
